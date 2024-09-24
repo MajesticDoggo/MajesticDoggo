@@ -64,4 +64,5 @@ one of my proudest works. Many memories, good, mostly bad—and many hours in Zm
 <br>
 <p>Thanks for reading <i>September 24th 2024</i></p>
 </body>
-
+		
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajesticDoggo&layout=compact&theme=city_lights)
