@@ -22,7 +22,7 @@ one of my proudest works. Many memories, good, mostly bad—and many hours in Zm
 	<dt>Drivetrain</dd>
 		<dd>- JDM V7 Transmission Swap (r160 diff)</dd>
 		<dd>- Kartboy Shortshifter</dd>
-		<dd>-Stage 3 Clutch</dd>
+		<dd>- Stage 3 Clutch</dd>
 	<dt>Wheels</dt>
  		<dd>- 19x9.5 Rota Grids 245/40R-18 Hankook Ventus V2 concept2 XL</dd>
 	<dt>Power Mods</dt>
