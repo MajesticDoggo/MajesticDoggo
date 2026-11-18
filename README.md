@@ -1,7 +1,7 @@
 # Welcome to my profile
 
 ## Current Projects
-Currently, I'm developing a clothing brand website with the help of a friend. View the repo here, https://github.com/daedadev/shop-app
+Currently, I'm developing a website to view different facts about dog breeds. PAWFACTS
 
 ## Past Projects
 Android Mobile App: Mood Kitchen  - https://github.com/MajesticDoggo/Fork_2025_11_Team1<br>
